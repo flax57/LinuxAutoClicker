@@ -5,7 +5,7 @@ Max Auto Clicker Software is a tool that allows you to automate clicking. This L
 
 One of the most main advantages of this program is that it is totally free. You do not need to pay anything to download and use it. Another amazing feature of this program is its small size. It takes relatively little space on your PC and it consumes few resources (CPU, Memory, etc), and available also on Windows.
 
-Overall, Max Auto Clicker Software is a fantastic tool that may save you a significant amount of time. If you are someone who often clicks on stuff, this software is for you. Tested on most Linux distributions and proven to run properly, including Ubuntu, Linux Mint, [Manjaro, Arch Linux](https://aur.archlinux.org/packages/maxautoclicker), Zorin OS, Fedora, and many others.
+Overall, Max Auto Clicker Software is a fantastic tool that may save you a significant amount of time. If you are someone who often clicks on stuff, this software is for you. Tested on most Linux distributions and proven to run properly, including Ubuntu, Linux Mint, Manjaro, Arch Linux, Zorin OS, Fedora, and many others.
 
 <p align="center"><a href="https://maxautoclicker.blogspot.com/" title="Linux Auto Clicker"><img src="https://user-images.githubusercontent.com/61044523/192085437-72c0ed5e-fb85-4879-b01e-9799d0ff7b74.jpg" alt="Auto Clicker for Linux desktops" title="Linux Auto Clicker"></a></p>
 
