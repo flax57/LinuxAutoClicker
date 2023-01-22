@@ -9,16 +9,11 @@ Overall, Max Auto Clicker Software is a fantastic tool that may save you a signi
 
 <p align="center"><a href="https://maxautoclicker.blogspot.com/" title="Linux Auto Clicker"><img src="https://user-images.githubusercontent.com/61044523/192085437-72c0ed5e-fb85-4879-b01e-9799d0ff7b74.jpg" alt="Auto Clicker for Linux desktops" title="Linux Auto Clicker"></a></p>
 
-## How to download the Max Auto Scroll program on Linux?
-Simply go to the official repository and download the Max Auto Scroll program from there:
-
-<p align="center"><a href="https://sourceforge.net/projects/maxautoclicker/files/latest/download" title="Download it for free"><img src="https://user-images.githubusercontent.com/112543061/191870171-681fe62d-b2a2-4d63-a0d2-77b869503130.png" alt="Download it for free" title="Download it for free"></a></p>
-
 ## Installation
 
 - Ubuntu-based and Debian-based Linux: follow this [tutorial](https://maxautoclicker.blogspot.com/2021/05/mouse-auto-clicker-for-ubuntu-linux.html).
 - Arch Linux and Manjaro: follow this [tutorial](https://dev.to/flaxalex57/auto-clicker-manjaro-arch-linux-3b0o).
-- Chorme OS: read this tutorial [the Auto Clicker for Chromebooks](https://dev.to/flaxalex57/auto-clicker-for-chromebook-3k7h).
+- Chorme OS: follow this tutorial [the Auto Clicker for Chromebooks](https://dev.to/flaxalex57/auto-clicker-for-chromebook-3k7h).
 
 ## Documentation
 
