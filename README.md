@@ -16,8 +16,8 @@ Simply go to the official repository and download the Max Auto Scroll program fr
 
 ## Installation
 
-- Linux: read this [tutorial](https://maxautoclicker.blogspot.com/2021/05/mouse-auto-clicker-for-ubuntu-linux.html).
-- Arch/Manjaro Linux: via [AUR](https://aur.archlinux.org/packages/maxautoclicker).
+- Ubuntu-based and Debian-based Linux: follow this [tutorial](https://maxautoclicker.blogspot.com/2021/05/mouse-auto-clicker-for-ubuntu-linux.html).
+- Arch Linux and Manjaro: follow this [tutorial](https://dev.to/flaxalex57/auto-clicker-manjaro-arch-linux-3b0o).
 - Chorme OS: read this tutorial [the Auto Clicker for Chromebooks](https://dev.to/flaxalex57/auto-clicker-for-chromebook-3k7h).
 
 ## Documentation
